@@ -112,7 +112,7 @@ available under the following tickets:
 	[410093](https://bugs.gentoo.org/show_bug.cgi?id=410093)
 
 #### Independent projects
-(1999-present)
+(1999 - present)
 
 * Developed audiosniff, a network monitor in C that represents network traffic
   as audio tones to aid network troubleshooting and development. Audiosniff
