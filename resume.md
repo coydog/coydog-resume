@@ -1,4 +1,3 @@
-<link href="markdown.css" rel="stylesheet"></link>
 
 Programmer / Systems Administrator
 ----------------------------------
