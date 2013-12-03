@@ -1,6 +1,6 @@
 
-Programmer / Systems Administrator
-----------------------------------
+__Programmer / Systems Administrator__
+--------------------------------------
 __coydog {at} devio {dot} us__  
 
 #### SUMMARY:
