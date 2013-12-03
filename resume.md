@@ -1,7 +1,8 @@
 <link href="markdown.css" rel="stylesheet"></link>
 
 Programmer / Systems Administrator
----------------------------------
+----------------------------------
+__coydog {at} devio {dot} us__  
 
 #### SUMMARY:
 
