@@ -125,11 +125,13 @@ with git and submitted patches to upstream maintainers.
   [Repository](https://github.com/coydog/audiosniff)
 * Developed fouriergen, a simple DSP synthesizer capable of harmonies, to
   enable music composition using shell scripting.
+  [Repository](https://github.com/coydog/fouriergen)
 * Wrote breaknode.py, a Python script to test Node.js HTTP servers for
   vulnerability to the request pipelining denial of service attack in versions
   prior to October 2013.
 * Updated legacy ypsnarf security auditing tool for NIS+ for modern Solaris
-  derivatives. Ported the tool to Linux. [Repository](https://github.com/coydog/ypsnarf-2013)
+  derivatives. Ported the tool to Linux.
+  [Repository](https://github.com/coydog/ypsnarf-2013)
 * Developed utilities using C and Bash shell scripting for drive imaging and
   backups on Linux, BSD, and Mac OS X. Utilities wipe free space, image the
   storage device using dd, and compress with gzip or bzip2, using a
@@ -139,6 +141,7 @@ with git and submitted patches to upstream maintainers.
 * Implemented MP3 player with web browser interface for home stereo system,
   using FreeBSD 3.4, Perl CGI scripts, and MySQL on a headless PC.
 * Wrote a portable TCP portscanner, compatible with most Unix systems, Linux,
-  Windows, and VMS. [Repository](https://github.com/coydog/drunkscan)
+  Windows, and VMS.
+  [Repository](https://github.com/coydog/drunkscan)
 * Implemented an RSS reader in PHP.
 
