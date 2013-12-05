@@ -39,11 +39,11 @@ requiring close communication between developer and client.
 
 Developed middleware and web user interfaces in Visual Studio for SunGard EBS
 OmniPlan / OmniPlus retirement benefits recordkeeping systems. Maintained
-monolithic native C++ IIS CGI applications enabling customer service
-representatives, 401(k) plan administrators, and plan participants to view and
-modify retirement plan data. Worked closely with in-house business analysts and
-customer teams to translate domain knowledge and business needs into software
-specifications and implementations. 
+monolithic native C++ load-balanced IIS CGI and ISAPI applications enabling
+customer service representatives, 401(k) plan administrators, and plan
+participants to view and modify retirement plan data. Worked closely with
+in-house business analysts and customer teams to translate domain knowledge and
+business needs into software specifications and implementations. 
 
 * Implemented comment functionality in proprietary scripting engine for CGI
   applications. 
