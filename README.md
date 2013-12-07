@@ -75,7 +75,7 @@ __Programmer / Systems Administrator__
   (Sendmail), and POP3 (Courier) for 765 users and 192 domains. 
 * Improved service availability and performance by migrating legacy Windows NT
   4.0/3.51 infrastructure to FreeBSD and OpenBSD. 
-* Optimized DNS zone cache times to improve propagation of customer-requested
+* Optimized DNS zone refresh times to improve propagation of customer-requested
   changes. 
 * Performed onsite network maintenance for corporate clients in heterogeneous
   environments (SCO Unix, various MS platforms).
