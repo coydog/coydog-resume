@@ -107,8 +107,9 @@ __Volunteer C programmer__
 Submitted patches for legacy X11 system load monitor applications wmmon,
 wmfire, and wmtop. Fixed bugs including data type issues on 64-bit
 architectures with greater system resources than were possible on original i386
-platform, and issues with the ever-evolving Linux procfs API. Tracked revisions
-with git and submitted patches to upstream maintainers.
+platform. Fixed statistics reporting issues caused by changes in the Linux
+procfs API. Tracked revisions with git and submitted patches to upstream
+maintainers.
 *Not an offical Gentoo developer.* Resolved the following tickets: 
 	[404323](https://bugs.gentoo.org/show_bug.cgi?id=404323)
 	[407325](https://bugs.gentoo.org/show_bug.cgi?id=407325)
