@@ -130,8 +130,8 @@ maintainers.
 * Wrote breaknode.py, a Python script to test Node.js HTTP servers for
   vulnerability to the request pipelining denial of service attack in versions
   prior to October 2013.
-* Updated legacy ypsnarf security auditing tool for NIS+ for modern Solaris
-  derivatives. Ported the tool to Linux.
+* Updated legacy ypsnarf security auditing tool for NIS+, for compatibility
+  with modern Solaris derivatives. Ported the tool to Linux.
   [Repository](https://github.com/coydog/ypsnarf-2013)
 * Developed utilities using C and Bash shell scripting for drive imaging and
   backups on Linux, BSD, and Mac OS X. Utilities wipe free space, image the
