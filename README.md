@@ -140,7 +140,7 @@ maintainers.
 * Conducted research into improving performance of consumer-market routers by
   offloading DHCP and DNS services onto NetBSD-current/evbarm on RaspberryPi.
 * Implemented MP3 player with web browser interface for home stereo system,
-  using FreeBSD 3.4, Perl CGI scripts, and MySQL on a headless PC.
+  using FreeBSD 3.4, Perl CGI scripts, Apache, and MySQL on a headless PC.
 * Wrote a portable TCP portscanner, compatible with most Unix systems, Linux,
   Windows, and VMS.
   [Repository](https://github.com/coydog/drunkscan)
