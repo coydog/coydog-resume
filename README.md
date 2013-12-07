@@ -8,7 +8,7 @@ __coydog {at} devio {dot} us__
 Versatile problem solver, emphasizing security, stability, and portability.
 Broad experience with applications development and systems administration using
 BSD, GNU/Linux, Unix, free and open source software, and Microsoft platforms.
-Skilled in computer security and privacy, disk imaging, and software-based data
+Skilled in computer security and privacy, drive imaging, and software-based data
 recovery. Strong customer service skills.  Excellent written and verbal
 communication.
 
