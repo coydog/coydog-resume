@@ -8,7 +8,7 @@ __coydog {at} coydogsoftware {dot} net__
 Versatile problem solver, valuing security, stability, and portability.  Broad
 experience with applications development and systems administration using BSD,
 GNU/Linux, Unix, free and open source software, and Microsoft platforms.
-Skilled in computer security and privacy, and software-based data recovery.
+Skilled in computer security and privacy and software-based data recovery.
 Strong customer service skills.  Excellent written and verbal communication.
 
 #### PROFESSIONAL EXPERIENCE:
@@ -17,8 +17,8 @@ __Redacted__
 __Technical Support Operator__  
 (2013 - present)
 
-Supported customers of managed VPS, dedicated server and shared hosting
-services in a CentOS/Virtuozzo environment.
+Supported international customers of managed VPS, dedicated server and shared
+hosting services in a CentOS/Virtuozzo environment.
 
 * Performed systems administration tasks on cPanel, DirectAdmin, and Plesk
   servers using bash and GNU/POSIX utilities.
