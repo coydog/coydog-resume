@@ -17,7 +17,7 @@ __Redacted__
 __Technical Support Operator__  
 (2013 - present)
 
-Supported international customers of managed VPS, dedicated server and shared
+Supported international customers of managed VPS, dedicated server, and shared
 hosting services in a CentOS/Virtuozzo environment.
 
 * Performed systems administration tasks on cPanel, DirectAdmin, and Plesk
