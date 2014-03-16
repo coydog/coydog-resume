@@ -1,18 +1,41 @@
 
 __Programmer / Systems Administrator__
 --------------------------------------
-__coydog {at} devio {dot} us__  
+__coydog {at} coydogsoftware {dot} net__  
 
 #### SUMMARY:
 
-Versatile problem solver, emphasizing security, stability, and portability.
-Broad experience with applications development and systems administration using
-BSD, GNU/Linux, Unix, free and open source software, and Microsoft platforms.
-Skilled in computer security and privacy, drive imaging, and software-based data
-recovery. Strong customer service skills.  Excellent written and verbal
-communication.
+Versatile problem solver, valuing security, stability, and portability.  Broad
+experience with applications development and systems administration using BSD,
+GNU/Linux, Unix, free and open source software, and Microsoft platforms.
+Skilled in computer security and privacy, and software-based data recovery.
+Strong customer service skills.  Excellent written and verbal communication.
 
 #### PROFESSIONAL EXPERIENCE:
+
+__Redacted__  
+__Technical Support Operator__  
+(2013 - present)
+
+Supported customers of managed VPS, dedicated server and shared hosting
+services in a CentOS/Virtuozzo environment.
+
+* Performed systems administration tasks on cPanel, DirectAdmin, and Plesk
+  servers using bash and GNU/POSIX utilities.
+* Diagnosed and resolved DNS issues.
+* Administrated email services with Exim, Postfix, Dovecot, and Courier.
+* Configured DNS records and SMTP servers to ensure mail deliverability using
+  HELO strings, forward and reverse DNS, and SPF.
+* Identified and disabled PHP, Perl, and native malware threats from live
+  installations of common CMS environments (WordPress, Joomla, Drupal).
+* Responded to spam issues arising from insecure CGI scripts, malware
+  injections, and account compromises.
+* Configured Apache 2.2 and 2.4 with vhost includes.
+* Managed cron jobs and init scripts to meet customer needs.
+* Interfaced directly with customer via written communication.
+  problems and perform system administration tasks at customer request.
+* Managed iptables rulesets using ConfigServer Firewall suite to respond
+  dynamically to attacks.
 
 __Coydog Software__   
 __Developer / Proprietor__  
