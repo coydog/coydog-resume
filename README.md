@@ -32,7 +32,7 @@ hosting services in a CentOS/Virtuozzo environment.
   injections, and account compromises.
 * Configured Apache 2.2 and 2.4 with vhost includes.
 * Managed cron jobs and init scripts to meet customer needs.
-* Interfaced directly with customer via written communication.
+* Interfaced directly with customers via written communication.
   problems and perform system administration tasks at customer request.
 * Managed iptables rulesets using ConfigServer Firewall suite to respond
   dynamically to attacks.
