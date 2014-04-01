@@ -28,12 +28,11 @@ hosting services in a CentOS/Virtuozzo environment.
   HELO strings, forward and reverse DNS, and SPF.
 * Identified and disabled PHP, Perl, and native malware threats from live
   installations of common CMS environments (WordPress, Joomla, Drupal).
-* Responded to spam issues arising from insecure CGI scripts, malware
+* Responded to spam incidents arising from insecure CGI scripts, malware
   injections, and account compromises.
 * Configured Apache 2.2 and 2.4 with vhost includes.
 * Managed cron jobs and init scripts to meet customer needs.
 * Interfaced directly with customers via written communication.
-  problems and perform system administration tasks at customer request.
 * Managed iptables rulesets using ConfigServer Firewall suite to respond
   dynamically to attacks.
 
@@ -113,6 +112,13 @@ network cable. Resolved  helpdesk issues.
 
 #### OPEN SOURCE / COMMUNITY PROJECTS:
 
+__wmstickynotes__  
+__Volunteer C programmer__  
+(2014)  
+
+Contributed "--nowrite" flag to optionally prevent sensitive data from being
+stored in the filesystem. [project homepage](http://wmstickynotes.sourceforge.net)
+
 __ZMap project (University of Michigan)__  
 __Volunteer C programmer__  
 (2013 - present)  
@@ -141,6 +147,9 @@ maintainers.
 #### Independent projects
 (1999 - present)
 
+* Conducted research into HTTP server slot denial of service attacks.
+  Implemented multithreaded malicious HTTP clients in Rust and C to test
+  mitigation techniques.
 * Developed audiosniff, a network monitor in C that represents network traffic
   as audio tones to aid network troubleshooting and development. Audiosniff
   intercepts traffic using pcap and outputs tones with the speaker driver of
