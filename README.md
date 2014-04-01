@@ -80,7 +80,7 @@ business needs into software specifications and implementations.
   functionality to enhance standards compliance and functionality of entire
   product suite for XML, HTML, URL, and configuration handling.
 * Implemented Dialed Number Identification System (DNIS) functionality for VRU
-  using Purple Dog Software API.
+  using Purple Mutt Software API.
 * Wrote internal and end-user documentation for all fixes and enhancements.
 * Identified and fixed GUI threading issues in Win32 MFC desktop application.
 * Tracked and documented revisions in Visual SourceSafe.
