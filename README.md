@@ -117,7 +117,7 @@ __Volunteer C programmer__
 (2014)  
 
 Contributed "--nowrite" flag to optionally prevent sensitive data from being
-stored in the filesystem. [project homepage](http://wmstickynotes.sourceforge.net)
+stored in the filesystem. [Project homepage](http://wmstickynotes.sourceforge.net)
 
 __ZMap project (University of Michigan)__  
 __Volunteer C programmer__  
