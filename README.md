@@ -7,9 +7,9 @@ __coydog {at} coydogsoftware {dot} net__
 
 Versatile problem solver, valuing security, stability, and portability.  Broad
 experience with applications development and systems administration using BSD,
-GNU/Linux, Unix, free and open source software, and Microsoft platforms.
-Skilled in computer security and privacy and software-based data recovery.
-Strong customer service skills.  Excellent written and verbal communication.
+GNU/Linux, Unix, free and open source software, and Microsoft platforms,
+focused on computer security and privacy Strong customer service skills.
+Excellent written and verbal communication.
 
 #### PROFESSIONAL EXPERIENCE:
 
