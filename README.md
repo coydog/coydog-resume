@@ -30,6 +30,8 @@ hosting services in a CentOS/Virtuozzo environment.
   installations of common CMS environments (WordPress, Joomla, Drupal).
 * Responded to spam incidents arising from insecure CGI scripts, malware
   injections, and account compromises.
+* Wrote shell scripts and oneliners to identify message ID's of spam with
+  spoofed senders and the resulting bounce messages for mail queue management.
 * Configured Apache 2.2 and 2.4 with vhost includes.
 * Managed cron jobs and init scripts to meet customer needs.
 * Interfaced directly with customers via written communication.
